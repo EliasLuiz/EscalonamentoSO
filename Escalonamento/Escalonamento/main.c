@@ -5,7 +5,7 @@
 
 #pragma region Declaracoes Iniciais
 typedef struct
-//Tipo de dados Processo, que serve como base para a simulacao
+//Tipo de dados Processo, que serve como base para a simulacao//comentario alterado para teste
 {
 	int id;
 	int tempoCpu;
